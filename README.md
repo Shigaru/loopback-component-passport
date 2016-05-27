@@ -1,9 +1,10 @@
-# loopback-component-passport
+# loopback-component-passport-auth0
+**NOTE: This module is a fork to allow Auth0 integration, once this functionality is available in main module this one will not be no longer maintained **
 
 **NOTE: This module supersedes [loopback-passport](https://www.npmjs.org/package/loopback-passport). Please update your package.json accordingly.**
 
 The module provides integration between [LoopBack](http://loopback.io) and
-[Passport](http://passportjs.org) to support third-party login and account 
+[Passport](http://passportjs.org) to support third-party login and account
 linking for LoopBack applications.
 
 <img src="./ids_and_credentials.png" width="600px" />
